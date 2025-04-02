@@ -7,3 +7,5 @@
     * Few-shot Learning
     * Chain of Thought（CoT）
     * Self-Consistency*
+
+Dataset：https://www.kaggle.com/datasets/subhajournal/phishingemails/data
